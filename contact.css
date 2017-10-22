@@ -1,0 +1,47 @@
+.navbar-brand {
+  font-size: 30px;
+  font-family: inherit;
+}
+.navbar-text {
+  font-size: 20px
+}
+.container {
+  text-align: center;
+  background-color: #F0F8FF;
+  color: grey;
+}
+/*.col-md-12 p {
+  float: right;
+  /*padding: 0 20px 20px 0;*/
+
+/*}*/
+.jumbotron {
+  background-color: #F0F8FF;
+}
+.col-md-6 {
+  text-align: center;
+  font-size: 25px;
+  right: 10px;
+  font-style: italic;
+  font-family: serif;
+
+}
+
+.contactform {
+  text-align: center;
+  top: 20px;
+
+}
+.email {
+  font-size: 30px;
+  color: blue;
+  background-color: inherit;
+  /*border: 30px;
+  border-color: #00008B;*/
+}
+.message {
+  font-size: 30px;
+  background-color: inherit;
+  /*border: 40px;
+  border-color: #00008B;*/
+}
